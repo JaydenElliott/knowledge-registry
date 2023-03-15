@@ -4,4 +4,4 @@ Place to note down things I banged my head against for long enough to constitute
 
 ## Rust Libraries
 
-- [SQLx Cheatsheet](https://github.com/JaydenElliott/knowledge-registry/rust/libraries/sqlx-cheatsheet.md)
+- [SQLx Cheatsheet](https://github.com/JaydenElliott/knowledge-registry/blob/main/rust/libraries/sqlx-cheatsheet.md)
